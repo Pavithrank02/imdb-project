@@ -3,6 +3,9 @@
   padding: 0;
 }
 
-html, body, #root, .app {
+html,
+body,
+#root,
+.app {
   min-height: 100%;
 }
